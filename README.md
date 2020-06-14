@@ -13,3 +13,6 @@ cd A
 앱 실행
 flutter devices
 flutter run
+
+참고
+https://flutter-ko.dev/docs/get-started/codelab
