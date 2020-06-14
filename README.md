@@ -15,4 +15,6 @@ flutter devices <br>
 flutter run <br>
 
 참고 <br>
-https://flutter-ko.dev/docs/get-started/codelab
+https://flutter-ko.dev/docs/get-started/codelab <br>
+https://ridibooks.com/books/3419000002?_s=search&_q=%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5 <br>
+https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
