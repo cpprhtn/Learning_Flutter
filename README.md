@@ -11,9 +11,13 @@ flutter doctor
 flutter create A <br>
 cd A
 
+ios simulator <br>
+open -a Simulator <br>
+
 앱 실행 <br>
 flutter devices <br>
 flutter run <br>
+
 
 참고 <br>
 https://flutter-ko.dev/docs/get-started/codelab <br>
