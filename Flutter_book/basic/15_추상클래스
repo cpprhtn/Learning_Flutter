@@ -1,3 +1,5 @@
+추상클래스를 통해 확장성을 높이고 실수를 방지할 수 있음
+
 abstract class Coffee {
   int price;
   int shot;
