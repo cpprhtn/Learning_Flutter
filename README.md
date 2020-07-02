@@ -23,3 +23,7 @@ flutter run <br>
 https://flutter-ko.dev/docs/get-started/codelab <br>
 https://ridibooks.com/books/3419000002?_s=search&_q=%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5 <br>
 https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
+
+## 빌드 오류시
+https://www.it-swarm.dev/ko/ios/xcode-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%9B%84-%EC%97%AC%EB%9F%AC-%EB%AA%85%EB%A0%B9%EC%9C%BC%EB%A1%9C-flutter-ios-%EB%B9%8C%EB%93%9C-%EC%8B%A4%ED%8C%A8-%EC%98%A4%EB%A5%98/807155893/<br>
+https://github.com/flutter/flutter/issues/20685
