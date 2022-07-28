@@ -18,6 +18,7 @@ open -a Simulator <br>
 앱 실행 <br>
 flutter devices <br>
 flutter run <br>
+flutter run --no-sound-null-safety
 
 
 참고 <br>
